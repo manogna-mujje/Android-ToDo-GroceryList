@@ -3,14 +3,10 @@ package com.cmpe277.grocerylist;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
-//import android.database.DatabaseErrorHandler;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
-/**
- * Created by User on 2/28/2017.
- */
 
 public class DatabaseHelper extends SQLiteOpenHelper {
 

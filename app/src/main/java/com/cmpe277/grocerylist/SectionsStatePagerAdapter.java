@@ -3,13 +3,9 @@ package com.cmpe277.grocerylist;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
-
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by User on 4/9/2017.
- */
 
 public class SectionsStatePagerAdapter extends FragmentStatePagerAdapter {
 
